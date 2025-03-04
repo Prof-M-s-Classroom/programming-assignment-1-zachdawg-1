@@ -10,5 +10,4 @@ class SpaceRoute {
 
 };
 
-
 #endif //CS210PA1_SPACEROUTE_H
